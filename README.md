@@ -1,3 +1,3 @@
 # Physical-field-neural-network-PFNN
-Thanks for your interest.
-The code will be made available after the paper is officially accepted.
+
+If you have any problem, please contact us (email:23121084@bjtu.edu.cn).
